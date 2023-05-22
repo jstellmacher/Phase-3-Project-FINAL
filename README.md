@@ -1,5 +1,6 @@
 #What Is This Repo?
-It is a repo that displays knowledge of the backend. The technologies used for this project were: Python, 
+It is a repo that displays knowledge of the backend. The technologies used for this project were: Python <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/simpleicons.svg" />, 
 
 
 
